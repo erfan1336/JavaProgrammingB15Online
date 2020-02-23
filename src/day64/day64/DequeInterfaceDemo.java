@@ -17,6 +17,8 @@ public class DequeInterfaceDemo {
         lifoQue.add("attend the class");
         lifoQue.add("say by to java");
 
+        System.out.println("New version after adding for github test");
+
         System.out.println("lifoQue.removeLast() = " + lifoQue.removeLast());
         System.out.println("lifoQue.removeLast() = " + lifoQue.removeLast());
 
