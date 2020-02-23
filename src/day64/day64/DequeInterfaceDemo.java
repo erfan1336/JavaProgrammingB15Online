@@ -24,7 +24,7 @@ public class DequeInterfaceDemo {
         System.out.println("adding new one line here");
         System.out.println("adding new one line here");
         System.out.println("adding new one line here");
-        
+
 
         System.out.println("lifoQue.removeLast() = " + lifoQue.removeLast());
         System.out.println("lifoQue.removeLast() = " + lifoQue.removeLast());

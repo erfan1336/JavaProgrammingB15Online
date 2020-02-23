@@ -13,7 +13,7 @@ public class RepresentingTableData {
         //i want to get the value by it's column name
         //so i choose Map
 
-        Map<String,String> row1 = new HashMap<>();
+        Map< String, String > row1 = new HashMap<>();
         row1.put("first_name", "Regan");
         row1.put("email", "rboihcat@1688.gom");
         row1.put("gender","Female");
