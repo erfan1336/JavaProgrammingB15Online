@@ -31,6 +31,15 @@ public class ProducListPractice {
         }*/
 
 
+     /* for (Product each : productList){
+          if (each.getName().equals("Iphone XL") && each.getPrice() == 1299){
+              result = true;
+          }
+          if (each.equals(new Product("Iphone XL",1299))){
+              result = true;
+          }
+      }*/
+
         boolean result1 = productList.contains(new Product("Macbook Air", 1299));
 
 
